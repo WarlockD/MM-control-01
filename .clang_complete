@@ -1,0 +1,33 @@
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\cores\arduino
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\variants\leonardo
+-IC:\Users\warlo\.platformio\lib\Adafruit GFX Library_ID13
+-IC:\Users\warlo\.platformio\lib\Adafruit ILI9341_ID571
+-IC:\Users\warlo\.platformio\lib\Adafruit ST7735 and ST7789 Library_ID12
+-IC:\Users\warlo\.platformio\lib\Adafruit TouchScreen_ID5430
+-IC:\Users\warlo\.platformio\lib\Adafruit-TFT-LCD_ID32
+-IC:\Users\warlo\.platformio\lib\Geometry_ID720
+-IC:\Users\warlo\.platformio\lib\ILI9341_t3_ID540
+-IC:\Users\warlo\.platformio\lib\STM32duino Examples_ID2455\src
+-IC:\Users\warlo\.platformio\lib\Ucglib_ID943\src
+-IC:\Users\warlo\.platformio\lib\XPT2046_Touchscreen_ID542
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\EEPROM\src
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\HID\src
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SPI\src
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SoftwareSerial\src
+-IC:\Users\warlo\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\Wire\src
+-IC:\Users\warlo\.platformio\packages\toolchain-atmelavr\avr\include
+-IC:\Users\warlo\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\5.4.0\include
+-IC:\Users\warlo\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\5.4.0\include-fixed
+-IC:\Users\warlo\.platformio\packages\tool-unity
+-IE:\GitHub\MM-control-01\include
+-IE:\GitHub\MM-control-01
+-DPLATFORMIO=40000
+-DARDUINO_AVR_LEONARDO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-DUSB_VID=0x2341
+-DUSB_PID=0x8036
+-DUSB_PRODUCT="Arduino Leonardo"
+-DUSB_MANUFACTURER="Arduino"
+-D__AVR_ATmega32U4__
