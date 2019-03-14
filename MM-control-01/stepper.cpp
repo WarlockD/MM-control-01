@@ -214,7 +214,7 @@ void move(int _idler, int _selector, int _pulley)
 	_idler = set_idler_direction(_idler); 
 	_selector = set_selector_direction(_selector);
 	_pulley = set_pulley_direction(_pulley);
-	
+	// wee
 
 	do
 	{
