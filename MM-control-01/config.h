@@ -127,6 +127,6 @@
 #define EXTRUDERS 5
 
 //diagnostic functions
-//#define _DIAG
+#define _DIAG
 
 #endif //CONFIG_H_

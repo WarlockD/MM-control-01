@@ -41,10 +41,7 @@ static void rehome_idler()
     if (s_idler_engaged) park_idler(true);
 }
 
-void motion_set_idler_selector(uint8_t idler_selector)
-{
-    motion_set_idler_selector(idler_selector, idler_selector);
-}
+
 
 //! @brief move idler and selector to desired location
 //!
